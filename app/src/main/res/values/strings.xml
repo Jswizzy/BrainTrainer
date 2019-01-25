@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="start">start</string>
+    <string name="score">0/0</string>
+</resources>
